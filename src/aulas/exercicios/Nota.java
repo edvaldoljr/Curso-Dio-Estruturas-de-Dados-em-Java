@@ -22,6 +22,6 @@ public class Nota {
             System.out.println("Nota inválida digite novamente: ");
             n = scan.nextInt();
         }
-        System.out.println("Valor válido!");
+        System.out.println("Nota válida");
     }
 }
